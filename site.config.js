@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '588a8fea01aa404fa2192fb1b77b38a2',
+  rootNotionPageId: '1-243fb38d95fc44aa94befb99017a8f10',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '门道戏剧之门',
-  domain: 'https://www.notion.so/588a8fea01aa404fa2192fb1b77b38a2',
+  name: '门道戏剧世界戏剧学',
+  domain: 'https://www.notion.so/mendaoxiju/1-243fb38d95fc44aa94befb99017a8f10',
   author: '祁连',
 
   // open graph metadata (optional)
